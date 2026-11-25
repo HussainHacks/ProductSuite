@@ -31,6 +31,7 @@ All third-party dependencies used by **ProductSuite** remain subject to their re
 | `opentelemetry-api` | `1.45.2` | Apache-2.0 | Permitted | Retain copyright & notice | Telemetry API |
 | `typing-extensions` | `4.16.0` | PSF-2.0 | Permitted | Retain copyright & license notice | Typing backports |
 | `tzdata` | `2026.6` | Apache-2.0 | Permitted | Retain copyright & notice | IANA timezone database for `zoneinfo` |
+| `pg8000` | `1.31.6` | BSD-3-Clause | Permitted | Retain copyright & license notice | Pure-Python PostgreSQL driver |
 
 ## Frontend Dependencies (Node.js / TypeScript)
 
