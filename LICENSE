@@ -1,0 +1,55 @@
+PROPRIETARY SOURCE-AVAILABLE LICENSE (DRAFT FOR LEGAL REVIEW)
+
+Copyright (c) 2026 [PROJECT_OWNER_LEGAL_NAME / COMPANY_NAME].
+All Rights Reserved.
+
+Notice: The project owner has not yet supplied a legal entity name, company name,
+or licensing contact. Replace all bracketed placeholders ([...]) with verified
+legal details and have qualified legal counsel review this agreement before
+commercial reliance. This draft does not constitute legal advice and is not
+represented as legally enforceable in every jurisdiction without counsel review.
+
+1. OWNERSHIP
+   This software, including all source code, documentation, user interface
+   designs, data models, and associated assets in the ProductSuite repository
+   (collectively, the "Software"), is the exclusive proprietary property of
+   [PROJECT_OWNER_LEGAL_NAME / COMPANY_NAME] ("Owner").
+
+2. RESERVATION OF RIGHTS
+   All rights not expressly granted by Owner in a separate written agreement
+   are strictly reserved. This is NOT open-source software. No license is
+   granted under MIT, Apache-2.0, GPL, AGPL, BSD, or any other open-source
+   or permissive license.
+
+3. PUBLIC SOURCE VISIBILITY DOES NOT GRANT RIGHTS
+   Public visibility of the source code on GitHub or any other hosting platform
+   is provided solely for inspection and evaluation. Public visibility does NOT
+   grant you any right or license to use, copy, modify, merge, publish,
+   distribute, sublicense, sell, host as a service (SaaS), or commercially
+   operate the Software in whole or in part.
+
+4. COMMERCIAL LICENSING
+   Any production use, internal business deployment, redistribution,
+   modification, or commercial operation requires an executed written
+   Commercial License Agreement from Owner. See COMMERCIAL_LICENSE.md and
+   contact [LICENSING_CONTACT_EMAIL] for licensing inquiries.
+
+5. THIRD-PARTY COMPONENTS
+   Third-party libraries and dependencies referenced or used by the Software
+   remain subject to their respective third-party licenses as documented in
+   THIRD_PARTY_LICENSES.md. Nothing in this License restricts rights granted
+   to you under applicable third-party open-source licenses for those
+   individual third-party components standing alone.
+
+6. CONTRIBUTIONS
+   No contributor may submit or introduce code, documentation, or assets into
+   this repository unless the contributor owns all necessary intellectual
+   property rights and has written authorization to assign or license those
+   rights to Owner under terms compatible with this proprietary License.
+
+7. DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
+   OWNER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM
+   THE SOFTWARE OR ITS USE.
